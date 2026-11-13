@@ -1,0 +1,13 @@
+{
+  "model": "mock",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "message": {
+        "content": "{\"requester\": \"Ava Brooks\", \"team\": \"Design\", \"system\": null, \"environment\": null, \"permission\": null, \"start_date\": null, \"end_date\": null, \"manager\": \"Elena Park\", \"business_purpose\": \"The project that triggered my request has been cancelled so now there is no work for me to do.\", \"request_id\": \"IT-005\", \"request_date\": \"2026-10-22\", \"kind\": \"withdrawal\", \"supporting_quotes\": [\"Could you please withdraw IT-005? Date: 2026-10-22\\n\\nMy name is Ava Brooks. Design.\\n\\nThe project that triggered my request has been cancelled so now there is no work for me to do.\\n\\nMy boss is Elena Park.\\n\\nI had a handover call pencilled in with the project team but that has been deleted in the calendar as well.\\n\\nPlease record the request as withdrawn so everyone on the project can see it the same way.\"], \"issues\": [\"Missing or unresolved system\", \"Missing or unresolved environment\", \"Missing or unresolved permission\", \"Missing or unresolved start_date\", \"Missing or unresolved end_date\"]}",
+        "refusal": null
+      }
+    }
+  ],
+  "message_sha256": "9c5cc7dd21553d513388522e8d87efa028c0ddba6f066ee7b87fce26acfae98b"
+}

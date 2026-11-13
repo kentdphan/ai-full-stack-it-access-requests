@@ -1,0 +1,13 @@
+{
+  "model": "mock",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "message": {
+        "content": "{\"requester\": \"Chloe Martin\", \"team\": \"Communications\", \"system\": null, \"environment\": null, \"permission\": null, \"start_date\": null, \"end_date\": null, \"manager\": null, \"business_purpose\": \"Where can we find the access request form?\", \"request_id\": \"IT-017\", \"request_date\": \"2026-10-22\", \"kind\": \"other\", \"supporting_quotes\": [\"IT-017 was submitted by Chloe Martin from Communications on 2026-10-22. Where can we find the access request form? I noticed the link we have in our onboarding docs goes to an old page. I've had a few new starters ask me which link they should bookmark. I'm wondering if you can let me know the form URL. And who is responsible for that bit of onboarding? I want to update the document before the next bunch start so they're all doing the same thing.\"], \"issues\": [\"Missing or unresolved system\", \"Missing or unresolved environment\", \"Missing or unresolved permission\", \"Missing or unresolved start_date\", \"Missing or unresolved end_date\", \"Missing or unresolved manager\"]}",
+        "refusal": null
+      }
+    }
+  ],
+  "message_sha256": "56ec137b7e5437280cc8398785e8e2d2097a988fa07da87963a9e88541546206"
+}

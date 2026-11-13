@@ -1,0 +1,3 @@
+# Runtime: CPython 3.12 (tested: 3.12.3).
+# Zero third-party dependencies. All imports are Python standard library modules.
+# No pip install step is required; this lockfile intentionally contains no packages.

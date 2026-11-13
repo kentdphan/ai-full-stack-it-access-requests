@@ -1,0 +1,13 @@
+{
+  "model": "mock",
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "message": {
+        "content": "{\"requester\": \"Maya Chen\", \"team\": \"Analytics\", \"system\": \"Atlas\", \"environment\": \"staging\", \"permission\": \"read\", \"start_date\": \"2026-10-23\", \"end_date\": \"2026-11-06\", \"manager\": \"Priya Shah\", \"business_purpose\": \"checking dashboard totals\", \"request_id\": \"PARA-001\", \"request_date\": \"2026-10-22\", \"kind\": \"new\", \"supporting_quotes\": [\"Please open request PARA-001 dated 2026-10-22 for Maya Chen in Analytics. For checking dashboard totals, I need new read permission on Atlas, using staging. The window begins 2026-10-23 and ends 2026-11-06. Priya Shah is my manager.\"], \"issues\": []}",
+        "refusal": null
+      }
+    }
+  ],
+  "message_sha256": "c1752f8f1b4026d81b4464be64c8936719649785395698a407f356df28f2c253"
+}

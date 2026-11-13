@@ -1,0 +1,22 @@
+test_complete_batch_and_source_derived_routes (test_intake.CLI.test_complete_batch_and_source_derived_routes) ... ok
+test_enqueue_resume_and_expired_lease (test_intake.CLI.test_enqueue_resume_and_expired_lease) ... ok
+test_failure_refusal_interruption_and_failed_retry_preserve_history (test_intake.CLI.test_failure_refusal_interruption_and_failed_retry_preserve_history) ... ok
+test_invalid_input_is_isolated_and_retry_uses_stored_source (test_intake.CLI.test_invalid_input_is_isolated_and_retry_uses_stored_source) ... ok
+test_settings_refresh_and_accuracy_missing_record_fails (test_intake.CLI.test_settings_refresh_and_accuracy_missing_record_fails) ... ok
+test_two_operators_and_stale_completion (test_intake.CLI.test_two_operators_and_stale_completion) ... ok
+test_unchanged_reuse_changed_bytes_and_batch_absence (test_intake.CLI.test_unchanged_reuse_changed_bytes_and_batch_absence) ... ok
+test_changed_message_uses_new_facts_and_old_source_remains_in_history (test_intake.Operations.test_changed_message_uses_new_facts_and_old_source_remains_in_history) ... ok
+test_live_lease_and_reclaimed_worker_cannot_publish (test_intake.Operations.test_live_lease_and_reclaimed_worker_cannot_publish) ... ok
+test_policy_refresh_reprocesses_and_resume_keeps_queued_policy (test_intake.Operations.test_policy_refresh_reprocesses_and_resume_keeps_queued_policy) ... ok
+test_slow_message_leaves_other_completed_work_inspectable (test_intake.Operations.test_slow_message_leaves_other_completed_work_inspectable) ... ok
+test_transient_retry_then_success_and_http_error_redaction (test_intake.Operations.test_transient_retry_then_success_and_http_error_redaction) ... ok
+test_real_request_and_transport_without_key_or_network (test_intake.ProviderBoundary.test_real_request_and_transport_without_key_or_network) ... ok
+test_schema_evidence_and_dates_rejected (test_intake.ProviderBoundary.test_schema_evidence_and_dates_rejected) ... ok
+test_a_mock_reply_is_read_with_no_key_and_no_network (test_starter.MockResponse.test_a_mock_reply_is_read_with_no_key_and_no_network) ... ok
+test_each_request_export_has_message_text_and_a_hash (test_starter.SuppliedFiles.test_each_request_export_has_message_text_and_a_hash) ... ok
+test_the_schema_names_the_fields_it_requires (test_starter.SuppliedFiles.test_the_schema_names_the_fields_it_requires) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 8.160s
+
+OK
