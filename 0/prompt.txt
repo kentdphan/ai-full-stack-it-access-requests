@@ -1,0 +1,13 @@
+Summarize requirements.md, office-policy.md, and snapshot.schema.json
+
+---
+
+Analyze CHALLENGE.md.  Help me understand the task
+
+---
+
+Build a CLI that allows the application to do as reference in your build order.
+
+---
+
+Provide me a summary of the changes in bullet points
